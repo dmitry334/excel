@@ -1,0 +1,31 @@
+{
+  "name": "excel-project",
+  "version": "1.0.0",
+  "description": "Excel Project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitry334/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javasript",
+    "excel"
+  ],
+  "author": "dimasik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitry334/excel/issues"
+  },
+  "homepage": "https://github.com/dmitry334/excel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
