@@ -1,4 +1,7 @@
 https://drive.google.com/drive/folders/1RGl3aEH1hgfUfSY6amanpk7AsStceqPD
-
-asyn function 
+asyn function
 Promise
+box-sizing
+~ tilda
+BEM
+псевдо селекторы: focus
